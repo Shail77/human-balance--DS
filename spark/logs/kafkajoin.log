@@ -1,0 +1,165 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|  Ben.Jones@test.com|-18.5|  Ben.Jones@test.com|     1961|
+|  Ben.Jones@test.com|-15.5|  Ben.Jones@test.com|     1961|
+|  Ben.Jones@test.com|  2.5|  Ben.Jones@test.com|     1961|
+|Santosh.Ahmed@tes...|-16.5|Santosh.Ahmed@tes...|     1937|
+|Santosh.Ahmed@tes...| 35.5|Santosh.Ahmed@tes...|     1937|
+| Jane.Jones@test.com| -5.0| Jane.Jones@test.com|     1950|
+| Jane.Jones@test.com| -6.0| Jane.Jones@test.com|     1950|
+| Jane.Jones@test.com| -6.0| Jane.Jones@test.com|     1950|
+|Craig.Jones@test.com|-16.5|Craig.Jones@test.com|     1943|
+|Craig.Jones@test.com| -8.0|Craig.Jones@test.com|     1943|
+|Craig.Jones@test.com| 10.0|Craig.Jones@test.com|     1943|
+|Jerry.Smith@test.com|  0.0|Jerry.Smith@test.com|     1948|
+|Jerry.Smith@test.com| -5.0|Jerry.Smith@test.com|     1948|
+|Jerry.Smith@test.com| 23.0|Jerry.Smith@test.com|     1948|
+|  Lyn.Mitra@test.com| -4.5|  Lyn.Mitra@test.com|     1957|
+|  Lyn.Mitra@test.com| -4.5|  Lyn.Mitra@test.com|     1957|
+|  Lyn.Mitra@test.com| -3.0|  Lyn.Mitra@test.com|     1957|
+|Chris.Ahmed@test.com|  0.0|Chris.Ahmed@test.com|     1960|
+|Chris.Ahmed@test.com| -0.5|Chris.Ahmed@test.com|     1960|
+|Chris.Ahmed@test.com| -1.0|Chris.Ahmed@test.com|     1960|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|  Ben.Jones@test.com|  0.5|  Ben.Jones@test.com|     1961|
+|  Ben.Jones@test.com| 14.0|  Ben.Jones@test.com|     1961|
+|Santosh.Ahmed@tes...| 18.5|Santosh.Ahmed@tes...|     1937|
+|Santosh.Ahmed@tes...|-27.0|Santosh.Ahmed@tes...|     1937|
+| Jane.Jones@test.com| -5.0| Jane.Jones@test.com|     1950|
+|Craig.Jones@test.com|  4.0|Craig.Jones@test.com|     1943|
+|Jerry.Smith@test.com|-14.5|Jerry.Smith@test.com|     1948|
+|  Lyn.Mitra@test.com| -1.0|  Lyn.Mitra@test.com|     1957|
+|  Lyn.Mitra@test.com| -1.0|  Lyn.Mitra@test.com|     1957|
+|Chris.Ahmed@test.com| -2.0|Chris.Ahmed@test.com|     1960|
+|Chris.Ahmed@test.com| -3.0|Chris.Ahmed@test.com|     1960|
+|  Dan.Abram@test.com|-14.0|  Dan.Abram@test.com|     1940|
+|Christina.Staples...|  7.5|Christina.Staples...|     1964|
+|Christina.Staples...|  3.0|Christina.Staples...|     1964|
+|Jason.Staples@tes...| -4.5|Jason.Staples@tes...|     1946|
+|Spencer.Sanchez@t...| -5.5|Spencer.Sanchez@t...|     1942|
+|Christina.Harris@...| -2.0|Christina.Harris@...|     1954|
+|Trevor.Jones@test...|  0.5|Trevor.Jones@test...|     1963|
+|Trevor.Jones@test...|-22.5|Trevor.Jones@test...|     1963|
+|Edward.Jones@test...|-10.5|Edward.Jones@test...|     1944|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Santosh.Ahmed@tes...|-24.0|Santosh.Ahmed@tes...|     1937|
+| Jane.Jones@test.com| -4.0| Jane.Jones@test.com|     1950|
+|Craig.Jones@test.com| -2.0|Craig.Jones@test.com|     1943|
+|Jerry.Smith@test.com|-20.5|Jerry.Smith@test.com|     1948|
+|  Dan.Abram@test.com|-26.5|  Dan.Abram@test.com|     1940|
+|Jason.Staples@tes...| 22.0|Jason.Staples@tes...|     1946|
+|Spencer.Sanchez@t...| 33.0|Spencer.Sanchez@t...|     1942|
+|Christina.Harris@...| -2.0|Christina.Harris@...|     1954|
+|Edward.Jones@test...|-10.5|Edward.Jones@test...|     1944|
+|Gail.Gonzalez@tes...| -2.5|Gail.Gonzalez@tes...|     1953|
+| Sean.Doshi@test.com| -7.5| Sean.Doshi@test.com|     1949|
+|Suresh.Jones@test...|  1.0|Suresh.Jones@test...|     1938|
+|   Jacob.Wu@test.com|  3.0|   Jacob.Wu@test.com|     1945|
+|Sean.Habschied@te...| -1.0|Sean.Habschied@te...|     1941|
+|Sarah.Sanchez@tes...|-11.0|Sarah.Sanchez@tes...|     1947|
++--------------------+-----+--------------------+---------+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Jane.Hansen@test.com| -1.5|Jane.Hansen@test.com|     1953|
+| John.Jones@test.com| 21.5| John.Jones@test.com|     1947|
+|Bobby.Smith@test.com| -0.5|Bobby.Smith@test.com|     1960|
+|Jane.Spencer@test...|-28.0|Jane.Spencer@test...|     1963|
+|Jerry.Staples@tes...|-17.0|Jerry.Staples@tes...|     1943|
+|Chris.Jackson@tes...|-13.0|Chris.Jackson@tes...|     1946|
+|Chris.Clark@test.com| 22.5|Chris.Clark@test.com|     1948|
+|Edward.Spencer@te...| -4.5|Edward.Spencer@te...|     1957|
+|Angie.Spencer@tes...|  3.0|Angie.Spencer@tes...|     1940|
+|Bobby.Staples@tes...|-12.0|Bobby.Staples@tes...|     1944|
+|Danny.Jackson@tes...| -3.5|Danny.Jackson@tes...|     1955|
+|Danny.Abram@test.com| 15.0|Danny.Abram@test.com|     1962|
+|Dan.Jackson@test.com| 13.5|Dan.Jackson@test.com|     1949|
+|Suresh.Clayton@te...| -1.5|Suresh.Clayton@te...|     1950|
+|Dan.Habschied@tes...|-36.0|Dan.Habschied@tes...|     1965|
+|Angie.Anandh@test...| -2.5|Angie.Anandh@test...|     1952|
+|Eric.Habschied@te...|-11.0|Eric.Habschied@te...|     1942|
+| Sean.Jones@test.com| -1.5| Sean.Jones@test.com|     1954|
++--------------------+-----+--------------------+---------+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Jane.Hansen@test.com|  0.0|Jane.Hansen@test.com|     1953|
+|Jane.Hansen@test.com| -1.5|Jane.Hansen@test.com|     1953|
+|Jane.Hansen@test.com| -3.0|Jane.Hansen@test.com|     1953|
+| Jane.Doshi@test.com|  7.5| Jane.Doshi@test.com|     1939|
+| Jane.Doshi@test.com|-18.5| Jane.Doshi@test.com|     1939|
+| Jane.Doshi@test.com|-26.0| Jane.Doshi@test.com|     1939|
+| John.Jones@test.com| 12.0| John.Jones@test.com|     1947|
+| John.Jones@test.com| -7.0| John.Jones@test.com|     1947|
+|Bobby.Smith@test.com|  0.0|Bobby.Smith@test.com|     1960|
+|Bobby.Smith@test.com| -0.5|Bobby.Smith@test.com|     1960|
+|Bobby.Smith@test.com| -2.5|Bobby.Smith@test.com|     1960|
+|Jane.Spencer@test...| -2.0|Jane.Spencer@test...|     1963|
+|Jane.Spencer@test...| 20.0|Jane.Spencer@test...|     1963|
+|Jane.Spencer@test...| 24.0|Jane.Spencer@test...|     1963|
+|Jerry.Staples@tes...| -8.5|Jerry.Staples@tes...|     1943|
+|Jerry.Staples@tes...| 19.0|Jerry.Staples@tes...|     1943|
+|Chris.Jackson@tes...| -7.5|Chris.Jackson@tes...|     1946|
+|Chris.Jackson@tes...|  7.5|Chris.Jackson@tes...|     1946|
+|Chris.Clark@test.com|  5.5|Chris.Clark@test.com|     1948|
+|Chris.Clark@test.com|-25.0|Chris.Clark@test.com|     1948|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Jane.Hansen@test.com| -2.5|Jane.Hansen@test.com|     1953|
+|Jane.Hansen@test.com| -3.5|Jane.Hansen@test.com|     1953|
+| Jane.Doshi@test.com|-11.0| Jane.Doshi@test.com|     1939|
+| Jane.Doshi@test.com| 11.5| Jane.Doshi@test.com|     1939|
+| John.Jones@test.com|-39.0| John.Jones@test.com|     1947|
+| John.Jones@test.com|-17.5| John.Jones@test.com|     1947|
+|Bobby.Smith@test.com| -4.0|Bobby.Smith@test.com|     1960|
+|Bobby.Smith@test.com| -4.0|Bobby.Smith@test.com|     1960|
+|Jane.Spencer@test...| -7.0|Jane.Spencer@test...|     1963|
+|Jane.Spencer@test...| -6.0|Jane.Spencer@test...|     1963|
+|Jerry.Staples@tes...| 16.0|Jerry.Staples@tes...|     1943|
+|Jerry.Staples@tes...|  0.0|Jerry.Staples@tes...|     1943|
+|Chris.Jackson@tes...|-19.0|Chris.Jackson@tes...|     1946|
+|Chris.Jackson@tes...|-24.5|Chris.Jackson@tes...|     1946|
+|Chris.Clark@test.com| -5.5|Chris.Clark@test.com|     1948|
+|Chris.Clark@test.com| 14.0|Chris.Clark@test.com|     1948|
+|Angie.Spencer@tes...| 16.5|Angie.Spencer@tes...|     1940|
+|Edward.Spencer@te...| -1.0|Edward.Spencer@te...|     1957|
+|Angie.Spencer@tes...| -2.0|Angie.Spencer@tes...|     1940|
+|Edward.Spencer@te...| -1.0|Edward.Spencer@te...|     1957|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
